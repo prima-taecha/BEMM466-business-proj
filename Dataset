@@ -1,2 +1,9 @@
-dataset
+Dataset
 
+The dataset used in this project was collected from a publicly available dataset titled "Open e-commerce 1.0: Five years of crowdsourced U.S. Amazon purchase histories with user demographics." This dataset was collected by Alex Berke, Dan Calacci, Robert Mahari, Takahiro Yabe, Kent Larson, and Sandy Pentland, and is hosted on the Harvard Dataverse platform. The data collection and publication were conducted with the approval of the MIT Institutional Review Board. Both original and prepocess file have exceeded the file limitation of Github, it was provdie in Onedrive and could be download using this link https://universityofexeteruk-my.sharepoint.com/:u:/r/personal/pt494_exeter_ac_uk/Documents/Amazon%20data%20file.zip?csf=1&web=1&e=QVkBY4 
+For access request, please contact pt494@exeter.ac.uk
+
+
+
+Data Referance:
+Berke, A., Calacci, D., Mahari, R. Yabe, T., Larson, K., & Pentland, S. Open e-commerce 1.0, five years of crowdsourced U.S. Amazon purchase histories with user demographics. Sci Data 11, 491 (2024). https://doi.org/10.1038/s41597-024-03329-6
